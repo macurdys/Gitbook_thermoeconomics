@@ -1,5 +1,7 @@
 # Table of contents
 
+* [Thermoeconomics Info](README.md)
+
 ## Home
 
 * [Welcome](home/README.md)

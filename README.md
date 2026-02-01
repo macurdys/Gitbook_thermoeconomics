@@ -1,4 +1,4 @@
-# Thermoeconomics
+# Thermoeconomics Info
 
 **Where physics meets money.**
 
@@ -6,19 +6,19 @@ Thermoeconomics is the emerging science connecting energy, entropy, information,
 
 This is an open knowledge base. It collects the science, the history, the code, and the ideas that make up this new field.
 
----
+***
 
 ## What You'll Find Here
 
 **The Science** — The foundational papers and frameworks: information theory (Shannon, Jaynes, Landauer), Wolfram Physics, Crutchfield's computational mechanics, Deacon's constraint-based causation, Friston's active inference, and the proof-of-work lineage from Dwork & Naor through Nakamoto.
 
-**UTXO Blockchain Architectures** — A visual and technical guide to how UTXO-based blockchains work, from Bitcoin's original design through Cardano's eUTXO, Nervos' Cell model, and Quai Network's hierarchical architecture. Adapted from the UTXO Alliance Handbook.
+**Blockchain Architectures** — A visual and technical guide to how UTXO-based blockchains work, from Bitcoin's original design through Cardano's eUTXO, Nervos' Cell model, and Quai Network's hierarchical architecture. Adapted from the UTXO Alliance Handbook.
 
 **The Course** — A structured blockchain literacy curriculum originally developed at Wolfram Blockchain Labs. Dual-language: Wolfram Language (primary) with Python equivalents.
 
 **Resources** — Papers, videos, tools, glossary, and articles.
 
----
+***
 
 ## The Central Thesis
 
@@ -26,8 +26,8 @@ Proof of work is not waste — it is the thermodynamic bridge between physical r
 
 This is not a metaphor. It is physics.
 
----
+***
 
-*Built and maintained by Steph Macurdy · Wolfram Blockchain Labs · UTXO Alliance*
+_Built and maintained by Steph Macurdy · Wolfram Blockchain Labs · UTXO Alliance_
 
 [thermoeconomics.info](https://thermoeconomics.info) · [American Energy Money](https://americanenergymoney.com)
