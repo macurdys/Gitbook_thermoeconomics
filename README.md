@@ -22,9 +22,13 @@ This is an open knowledge base. It collects the science, the history, the code, 
 
 ## The Central Thesis
 
-Proof of work is not waste — it is the thermodynamic bridge between physical reality and digital value. Every hash computed is entropy produced, energy dissipated, and information created. The economic properties of proof-of-work currencies (scarcity, unforgeable costliness, objective measurability) are direct consequences of the second law of thermodynamics.
+Proof of work is irreversible computation. A SHA-256 hash maps many inputs to one output, erasing information in the process. By Landauer's principle, each bit erased dissipates at least kBT ln 2 of energy as heat. This is not an engineering limitation — it is a consequence of the second law of thermodynamics.
 
-This is not a metaphor. It is physics.
+The difficulty adjustment forces miners to perform this irreversible operation roughly 2^d times to produce one valid block. The result is a one-way function from energy to structured information: easy to verify, impossible to fake, and physically irreversible. You cannot un-dissipate the heat. You cannot reconstruct the discarded nonces. The work leaves a thermodynamic trace that cannot be counterfeited.
+
+This is what gives proof-of-work money its economic properties. Unforgeable costliness follows from thermodynamic irreversibility — producing a valid block requires energy dissipation that cannot be reversed or simulated. Objective measurability follows from computational irreducibility — there is no shortcut to finding a valid hash; the only proof you did the work is the work itself. Scarcity is a protocol parameter (the emission schedule), but its credibility rests on the thermodynamic cost of block production — you cannot inflate the supply without doing the corresponding physical work.
+
+The actual energy cost of mining is orders of magnitude above the Landauer limit. But the limit matters because it establishes that the cost is fundamental, not incidental. No future engineering improvement eliminates it. Any system that creates structured information through irreversible computation pays a thermodynamic price. Proof of work is the first economic system that treats this price as the basis of value.
 
 ***
 
